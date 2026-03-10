@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ループスピナ",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-03-10T15:41:38.445613Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ループスピナ",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/01_ループスピナ_稲葉曇.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ループスピナ",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_ループスピナ_稲葉曇.txt"
+    }
+  ]
+}
